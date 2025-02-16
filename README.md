@@ -105,10 +105,10 @@ expertise = {
 - 💼 LinkedIn: [Zheng (Zeni) Zhang](https://www.linkedin.com/in/zhangz128/)
 - 📧 Email: zhangzz1218@gmail.com
 
----
+<!-----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=zhangz128&color=blueviolet&style=flat-square" alt="Profile views"/>
+</div>-->
 
 > "Turning data into actionable insights, one dashboard at a time."
