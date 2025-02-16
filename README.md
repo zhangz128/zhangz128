@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Zeni！
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6842C2&center=true&vCenter=true&width=435&lines=Data+Scientist+|+Data+Analyt;Bussiness+Intelligence+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6842C2&center=true&vCenter=true&width=435&lines=Data+Scientist/Analyt+|+BI+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me 🎯
