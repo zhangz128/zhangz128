@@ -9,13 +9,15 @@
 Aspiring Data Scientist with a growing expertise in data analysis and strong foundation in business intelligence. Experienced in developing statistical models and machine learning applications, with a focus on business insights. Enthusiastic about creating impactful visualizations and implementing analytical solutions to derive business value from data.
 
 📈 **Focus Areas:**
-- Statistical analysis & predictive modeling
-- Business reporting & analytics
-- Dashboard development
-- Machine learning implementation
+- Statistical analysis & ML modeling
+- Predictive analytics
+- Interactive dashboards
+- ETL pipeline development
+- Automated reporting systems
 
 🎯 **Key Skills:**
 - Statistical modeling & analysis
+- Data pipeline automation
 - Python programming 
 - Data visualization
 - SQL & database querying
