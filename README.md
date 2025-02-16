@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6842C2&center=true&vCenter=true&width=435&lines=Data+Scientist/Analyt+|+BI+Developer" alt="Typing SVG" />
 </div>
 
-## About Me 🎯
+## About Me 🚀
 
 Aspiring Data Scientist with a growing expertise in data analysis and strong foundation in business intelligence. Experienced in developing statistical models and machine learning applications, with a focus on business insights. Enthusiastic about creating impactful visualizations and implementing analytical solutions to derive business value from data.
 
@@ -25,6 +25,8 @@ Aspiring Data Scientist with a growing expertise in data analysis and strong fou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangz128/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhangz128)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=codecademy&logoColor=white)](https://zhangz128.github.io/)
+
 
 ## 🛠️ Analytics Arsenal
 
@@ -104,6 +106,7 @@ expertise = {
 
 - 💼 LinkedIn: [Zheng (Zeni) Zhang](https://www.linkedin.com/in/zhangz128/)
 - 📧 Email: zhangzz1218@gmail.com
+- 🌐 Portfolio: [Zeni's Portfolio](https://zhangz128.github.io/)
 
 <!-----
 
